@@ -1,4 +1,2 @@
 # Cookbook
-My first repository
-hello
-From computer
+This repository contains recipes I like to share with my friends. You will find traditional Italian recipes, often revamped by me.
