@@ -13,3 +13,5 @@ In facts fro the perfect reciep you have to use the ingredients (guanciale, peco
 Lard, 1 spoon
 A small chili pepper
 Salt for the pasta
+
+#added by hvtham
